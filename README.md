@@ -14,5 +14,5 @@ This is a website portfolio for me. It has a header and nav bar, a picture and a
 ![Picture 3](assets/pictures/Screenshot3.png)
 
 ## Link
-
+https://haleytrimpert.github.io/Module-2-Challenge/
 
