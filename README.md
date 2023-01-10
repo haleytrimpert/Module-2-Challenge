@@ -7,11 +7,11 @@ This is a website portfolio for me. It has a header and nav bar, a picture and a
 
 ## Screenshots
 
-![Picture 1](Assets/pictures/Screenshot1.png)
+![Picture 1](assets/pictures/Screenshot1.png)
 
-![Picture 2](Assets/pictures/Screenshot2.png)
+![Picture 2](assets/pictures/Screenshot2.png)
 
-![Picture 3](Assets/pictures/Screenshot3.png)
+![Picture 3](assets/pictures/Screenshot3.png)
 
 ## Link
 
